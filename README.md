@@ -1,6 +1,8 @@
 # domin_r
 Dominance analysis (DA) Use domin And dominanceanalysis And dominance_analysis With (In) R Software
 
+https://www.youtube.com/watch?v=PAUbGq4P-7c
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
